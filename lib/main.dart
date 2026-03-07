@@ -123,3 +123,10 @@ class _MyHomePageState extends State<MyHomePage> {
     ],
   ];
 }
+
+///flutter build web
+///cd build/web
+///git init
+///git add .
+///git commit -m "수정"
+///git push --force https://github.com/Kairohpter/Kairohpter.github.io.git HEAD:main
