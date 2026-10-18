@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
     [
       '',
       '개인정보 보호책임자',
-      '•	책임자: 신한이\n'
+      '•	책임자: Kairohpter\n'
           '•	문의: zmnhaeae2@gmail.com',
     ],
     [
